@@ -1,0 +1,52 @@
+FACTORY_DELIVERY
+
+1	DELIVERY_ADDRESS	show me delivery address?	-	-
+2	SHIPPING_WEIGHT	What is the Shipping Weight (Ib) value?	-	-
+3	ALTITUDE	What is the Altitude Value?	-	-
+4	AMBIENT_TEMP	What is the Ambient Temperature?	-	-
+5	POWER	What is the Power Value?	-	-
+6	FLOW	What is the Flow Value?	-	-
+7	EWT	What is the EWT Value?	-	-
+8	LWT	What is the LWT Value?	-	-
+9	EWT_F	What is the Evap. EWT (F) or EFT (F) Value?	-	-
+10	LWT_F	What is the Evap. LWT (F) or LFT (F) Value?	-	-
+11	PASS	What is the Evap. Pass Value?	-	-
+12	PD	What is the Evap. PD Value?	-	-
+13	FF	What is the Evap. FF Value?	-	-
+14	TOTAL_KW	What is the Total KW Value?	-	-
+15	MBH	What is the Evap. MBH Value
+
+FACTORY_ORDER
+
+1	Contract_Order_Number	What is the Contract Order Number?	-	-
+2	Revision_Number	What is The Revision Number?	-	-
+3	EWT	What is the EWT Value?	-	-
+4	LWT	What is the LWT Value?	-	-
+5	Order_Placed_Date	What is the Order Placed Date?	-	-
+6	Liquidated_Damages	Show me Liquidated Damages?	-	-
+7	Order_Details_Description	What is the Order Details Description?	-	-
+8	Fabrication_Status	What is the Fabrication Status?	-	-
+9	Revision_Date	What is the Order Details Revision Date?	-	-
+10	Liquidated_Damages_Comment	What is the Liquidated Damages Comment?	-	-
+11	Contract_Order_No	What is the Contract_Order No.?	-	-
+12	Order_Rev_No	what is the Order Rev. No.?	-	-
+13	Unit_Tag	what is the Unit Tag?	-	-
+14	Model_No	What is the Model No.?	-	-
+15	Capacity	What is the Capacity (ton.R)?	-	-
+16	Refrigerant	What is the Refrigerant?	-	-
+17	PIN	Show me the Pin headers?	-	-
+18	EWT_F	What is Evap EWT (F) or EFT (F) Value?	-	-
+19	LWT_F	What is Evap. LWT (F) or LFT (F) value?	-	-
+20	Flow	What is Evap. Flow value?	-	-
+21	PD	What is Evap. PD Value?	-	-
+22	Fluid	What is Evap. Fluid value?	-	-
+23	FF	What is Evap. FF Value?	-	-
+24	MBH	What is Evap.. MBH value?	-	-
+25	Pass	What is Evap. Pass Value?	-	-
+26	Power	What is Evap. Power Value?	-	-
+27	Total_KW	What is Evap. Total kW value?	-	-
+28	AmbientTemp	What is Cond. Ambient Temp value?	-	-
+29	Altitude	What is Cond. Altitude Value?	-	-
+30	Type_Starter	What is Cond. Type Starter value?	-	-
+31	Shipping_Weight	What is the Cond. Shipping Weight (Ib) value?	-	-
+32	Special_Quotes	what are the Special Quote Number or SQ Number listed in these document?
